@@ -79,6 +79,6 @@ job-listing-app/
   => Responsive design
 
 ### 6. Author
-Name-: Aryan Shubbu
+Name-: Aryan Shubbu<br/>
 EmailID-: aryanshubbu171@gmail.com
 
