@@ -11,11 +11,11 @@
 // };
 
 export async function fetchJobs() {
-  const res = await fetch("http://localhost:5000/api/jobs");
+  const res = await fetch("mployee-jobs-a3em.vercel.app/api/jobs");
   return res.json();
 }
 
 export async function fetchJobsByLocation(location: string) {
-  const res = await fetch(`http://localhost:5000/api/jobs?location=${location}`);
+  const res = await fetch(`mployee-jobs-a3em.vercel.app/api/jobs?location=${location}`);
   return res.json();
 }
