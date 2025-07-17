@@ -36,7 +36,7 @@ This is a full-stack job listing web application built using **Next.js**, **Type
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/job-listing-app.git
+git clone https://github.com/LoneExpert/Mployee-Jobs.git
 cd job-listing-app
 ```
 ### 2. Setup Backend
