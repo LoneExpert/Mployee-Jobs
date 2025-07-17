@@ -25,9 +25,10 @@ This is a full-stack job listing web application built using **Next.js**, **Type
 ## Screenshots
 
 
-<img width="1920" height="1080" alt="Screenshot (389)" src="https://github.com/user-attachments/assets/321a46be-7b9f-48ca-aeb3-180686a74b52" />
+<img width="1920" height="949" alt="Screenshot (389)" src="https://github.com/user-attachments/assets/aae77aa2-c2b2-4d02-8f01-0bbd735b1a6f" />
 
-<img width="1920" height="1080" alt="Screenshot (390)" src="https://github.com/user-attachments/assets/9a236152-7ecf-4b44-ad40-e13a00bbd06c" />
+<img width="1920" height="948" alt="Screenshot (390)" src="https://github.com/user-attachments/assets/dd7b8234-c3d7-4618-a39a-5c0739f3d862" />
+
 
 
 ## 🚀 Getting Started Locally
