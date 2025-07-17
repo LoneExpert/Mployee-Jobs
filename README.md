@@ -73,8 +73,8 @@ job-listing-app/
 ```
 
 ### 5. Features
-  => List of job postings (fetched from MongoDB)
-  => Click to view job details
+  => List of job postings (fetched from MongoDB)<br/>
+  => Click to view job details<br/>
   => Location-based job search
   => Responsive design
 
