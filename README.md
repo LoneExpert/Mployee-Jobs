@@ -67,7 +67,7 @@ const BASE_URL = "https://your-backend-url.vercel.app"
 
 ### 6. Folder Structure
 ```bash
-job-listing-app/
+Mployee-Jobs/
 ├── backend/         # Express.js backend
 ├── frontend/        # Next.js frontend
 ```
