@@ -6,8 +6,8 @@ This is a full-stack job listing web application built using **Next.js**, **Type
 
 ## 🌐 Live Demo Links
 
-- 🔗 **Frontend**: (mployee-jobs.vercel.app)
-- 🔗 **Backend (API)**: (mployee-jobs-1mzu.vercel.app)
+- 🔗 **Frontend**:  [https://your-frontend-url.vercel.app](mployee-jobs.vercel.app)
+- 🔗 **Backend (API)**:  [https://your-backend-url.vercel.app/api/jobs](mployee-jobs-1mzu.vercel.app)
 
 > ⚠️ Note: The backend is deployed and connected to MongoDB, but due to an issue, the job list is currently not appearing on the frontend. All other functionality is implemented.
 
@@ -22,7 +22,7 @@ This is a full-stack job listing web application built using **Next.js**, **Type
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
 
 <img width="1920" height="949" alt="Screenshot (389)" src="https://github.com/user-attachments/assets/aae77aa2-c2b2-4d02-8f01-0bbd735b1a6f" />
@@ -64,6 +64,14 @@ npm run dev
 
 const BASE_URL = "https://your-backend-url.vercel.app"
 ```
+
+### 6. Folder Structure
+```bash
+job-listing-app/
+├── backend/         # Express.js backend
+├── frontend/        # Next.js frontend
+```
+
 ### 5. Features
   => List of job postings (fetched from MongoDB)
   => Click to view job details
