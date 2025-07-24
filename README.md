@@ -1,6 +1,6 @@
 # 🧑‍💼 Mployee - Job Listing Platform
 
-Mployee is a full-stack job listing web application where users can explore job openings from various industries, locations, and companies. The project uses **React (Vite)** for the frontend and **Node.js + Express + MongoDB** for the backend.
+Mployee is a full-stack job listing web application where users can explore job openings from various industries, locations, and companies. The project uses **Next.js** for the frontend and **Node.js + Express + MongoDB Atlas** for the backend.
 
 ---
 
