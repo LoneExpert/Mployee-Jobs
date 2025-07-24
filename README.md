@@ -95,7 +95,7 @@ Base URL: `https://mployee-jobs.onrender.com/api/jobs`
 
 ## 📥 Running Locally
 
-### Backend
+### 🖥️ Backend Setup
 
 ```bash
 cd backend
@@ -105,7 +105,7 @@ npm run dev
 
 ---
 
-## Endpoints
+### 🌐 Environment Variables
 
 ```bash
 MONGO_URI=your_mongodb_connection_string
@@ -114,7 +114,8 @@ PORT=5000
 
 ---
 
-Frontend
+### 💻 Frontend Setup
+## 🔧 Installation & Run
 ```bash
 cd frontend
 npm install
@@ -123,7 +124,7 @@ npm run dev
 
 ---
 
-## Update BASE_URL in frontend/src/api/jobs.ts:
+## ✏️ Update API Base URL
 ```bash
 const BASE_URL = "http://localhost:5000/api/jobs"; // for local
 // or
