@@ -35,6 +35,10 @@ router.get("/", async (req: Request, res: Response) => {
   }
 });
 
+router.get("/test", (_req: Request, res: Response) => {
+  res.json({ message: "Jobs route is working!" });
+});
+
 
 router.get("/:id", async (req: Request, res: Response) => {
   try {
