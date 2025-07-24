@@ -6,14 +6,14 @@ Mployee is a full-stack job listing web application where users can explore job 
 
 ## 🔗 Live Links
 
-- 🌐 Frontend: [https://mployee-jobs.vercel.app](https://mployee-jobs.vercel.app)
+- 🌐 Frontend: [https://mployee-jobs.vercel.app](mployee-jobs.vercel.app/)
 - ⚙️ Backend API: [https://mployee-jobs.onrender.com](https://mployee-jobs.onrender.com)
 
 ---
 
 ## 📂 Project Structure
-mployee/
-├── backend/
+mployee/<br>
+├── backend/<br>
 │   ├── controllers/
 │   ├── models/
 │   │   └── Job.ts
