@@ -12,6 +12,7 @@ Mployee is a full-stack job listing web application where users can explore job 
 ---
 
 ## 📂 Project Structure
+```
 mployee/
 ├── backend/
 │   ├── controllers/
@@ -47,6 +48,7 @@ mployee/
 │   └── package.json
 │
 └── README.md
+```
 
 ---
 
