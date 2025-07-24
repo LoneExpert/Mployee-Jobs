@@ -1,6 +1,7 @@
 import { Job } from "@/types/job";
 
-const BASE_URL = "http://localhost:5000/api/jobs";
+// const BASE_URL = "http://localhost:5000/api/jobs";
+const BASE_URL = "https://mployee-jobs.onrender.com/api/jobs";
 
 export const fetchJobs = async (): Promise<Job[]> => {
   try {
