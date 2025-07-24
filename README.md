@@ -14,40 +14,39 @@ Mployee is a full-stack job listing web application where users can explore job 
 ## 📂 Project Structure
 mployee/<br>
 ├── backend/<br>
-│   ├── controllers/
-│   ├── models/
-│   │   └── Job.ts
-│   ├── routes/
-│   │   └── jobRoutes.ts
-|   ├── types/
-│   │   └── job.ts
-│   ├── config/
-│   ├── .env
-│   ├── index.ts
-│   └── package.json
-│   └── package-lock.json
-│   └── tsconfig.json
-│
-├── frontend/
-│   ├── src/
-│   │   ├── app/
-|   |   |   └──page.tsx
-|   |   |   └──layout.tsx
-│   │   ├── components/
-|   |   |   └──Header.tsx
-|   |   |   └──Jobdetail.tsx
-|   |   |   └──JobList.tsx
-│   │   ├── lib/
-|   |   |   └──api.ts
-│   │   ├── pages/
-│   │   ├── types/
-│   │   │   └── job.ts
-│   ├── public/
-│   |   └── logo.ico
-│   └── package.json
-│
-├── README.md
-└── LICENSE
+│   ├── controllers/<br>
+│   ├── models/<br>
+│   │   └── Job.ts<br>
+│   ├── routes/<br>
+│   │   └── jobRoutes.ts<br>
+|   ├── types/<br>
+│   │   └── job.ts<br>
+│   ├── config/<br>
+│   ├── .env<br>
+│   ├── index.ts<br>
+│   └── package.json<br>
+│   └── package-lock.json<br>
+│   └── tsconfig.json<br>
+│<br>
+├── frontend/<br>
+│   ├── src/<br>
+│   │   ├── app/<br>
+|   |   |   └──page.tsx<br>
+|   |   |   └──layout.tsx<br>
+│   │   ├── components/<br>
+|   |   |   └──Header.tsx<br>
+|   |   |   └──Jobdetail.tsx<br>
+|   |   |   └──JobList.tsx<br>
+│   │   ├── lib/<br>
+|   |   |   └──api.ts<br>
+│   │   ├── pages/<br>
+│   │   ├── types/<br>
+│   │   │   └── job.ts<br>
+│   ├── public/<br>
+│   |   └── logo.ico<br>
+│   └── package.json<br>
+│<br>
+├── README.md<br>
 
 ---
 
